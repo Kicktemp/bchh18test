@@ -1,0 +1,27 @@
+{
+  "name": "bchh18",
+  "version": "1.0.0",
+  "description": "Presentation about creating a REVEAL.js Presentation with Jekyll ",
+  "main": "_site/index.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kicktemp/bchh18.git"
+  },
+  "author": "Niels Nübel <niels@kicktemp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kicktemp/bchh18/issues"
+  },
+  "homepage": "https://github.com/kicktemp/bchh18#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-rename": "^1.2.2",
+    "lodash": "^4.14.0"
+  },
+  "dependencies": {
+    "chart.js": "^2.7.3",
+    "reveal.js": "^3.7.0"
+  }
+}
